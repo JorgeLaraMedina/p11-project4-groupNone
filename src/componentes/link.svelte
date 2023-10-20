@@ -7,7 +7,7 @@
 <style>
     a{
         text-decoration: none;
-        font-size: 1rem;
+        font-size: 1.5;
         color: #ffffff;
         margin:0 9px;
     }
